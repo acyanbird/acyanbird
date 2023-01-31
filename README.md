@@ -14,7 +14,7 @@ she / her / hers<br><br>超级喜欢开源社区的夜鹰一只啊！Linux 桌�
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=acyanbird&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### ✍️ Not Random Dev Quote
+### ✍️ Not Random Motto
 ##### The good thing about standards is that there are so many to choose from. <br>
 ### 🪶 Not Random Nighthawk Shouting
 <img src="https://github.com/acyanbird/acyanbird/blob/main/pics/nighthawk.jpg" width="512px"/>
