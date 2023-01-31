@@ -14,8 +14,8 @@ she / her / hers<br><br>超级喜欢开源社区的夜鹰一只啊！Linux 桌�
 
 ### ✍️ Not Random Dev Quote
 ##### The good thing about standards is that there are so many to choose from. <br>
-### Not Random Nighthawk shouting
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### 🪶 Not Random Nighthawk shouting
+<img src="https://github.com/acyanbird/acyanbird/blob/main/pics/nighthawk.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=acyanbird&icon=0&color=0)](https://visitcount.itsvg.in)
