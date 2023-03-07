@@ -15,7 +15,7 @@ she / her / hers<br><br>超级喜欢开源社区的夜鹰一只啊！Linux 桌�
 
 
 ### ✍️ Not Random Motto
-##### The good thing about standards is that there are so many to choose from. <br>
+##### <img src="https://github.com/acyanbird/acyanbird/blob/main/pics/Quote.png" width="512px"/> <br>
 ### 🪶 Not Random Nighthawk Shouting
 <img src="https://github.com/acyanbird/acyanbird/blob/main/pics/nighthawk.jpg" width="512px"/>
 
