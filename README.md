@@ -1,5 +1,7 @@
 # 💫About Me :
-she / her / hers<br><br>超级喜欢开源社区的夜鹰一只啊！Linux 桌面日常玩家（Debian），什么都折腾一点，目前在给 Deepin 打工啾啾啾。珍惜生命远离折腾（但还是在折腾）欢迎加入 COSSIG 社区<a href="https://qm.qq.com/q/cXb0hh1uC"><img src=qq.svg alt="点击跳转到QQ" style="height: 1em;" /></a>来吹水！大家一起玩~
+she / her / hers<br><br>超级喜欢开源社区的夜鹰一只啊！Linux 桌面日常玩家（Debian），什么都折腾一点，目前在给 Deepin 打工啾啾啾。珍惜生命远离折腾（但还是在折腾）欢迎加入 COSSIG 社区<a href="https://qm.qq.com/q/cXb0hh1uC"><img src=qq.svg alt="点击跳转到QQ" style="height: 1em;" /></a>来吹水！大家一起玩~  
+
+同时我还是个观鸟人，请看我的 [ebird](https://ebird.org/profile/MjQ3NDIyOQ) 界面！
   
 
 ## 🌐Socials
