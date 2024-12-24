@@ -1,5 +1,5 @@
 # 💫About Me :
-she / her / hers<br><br>超级喜欢开源社区的夜鹰一只啊！Linux 桌面日常玩家（Ubuntu & CentOS），珍惜生命远离折腾（但还是在折腾）<br> 目前致力于发展 [COSSIG 社区](https://www.cossig.org/) 希望能够做计算机科普，以及向更多人介绍开源社区是怎样工作的。若您有兴趣欢迎联系我！！！！我们也在为 CentOS 服务，承接中国地区的宣传工作！所以要是您想要宣传也可以联系我们~ <br><br> I'm a nighthawk belongs to open source community. I love the idea of open source deeply, it shows another probability of the world. I'm currently working on  [COSSIG](https://www.cossig.org/), a community that wants to help foreign communities promo themselves in China. Also, tell other people how community works and how to start your first contribution. If you are interested in it, plz contact me!!!  
+she / her / hers<br><br>超级喜欢开源社区的夜鹰一只啊！Linux 桌面日常玩家（Debian），什么都折腾一点，目前在给 Deepin 打工啾啾啾。珍惜生命远离折腾（但还是在折腾）欢迎加入 COSSIG 社区<a href="https://qm.qq.com/q/cXb0hh1uC"><img src=qq.svg alt="点击跳转到QQ" style="height: 1em;" /></a>来吹水！大家一起玩~
   
 
 ## 🌐Socials
